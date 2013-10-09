@@ -1,10 +1,12 @@
 Attestation
 ===========
 
-Simple sf2, angular app
+Описание
+--------
+Пример приложения, написанного на symfony2 с использованием angularjs
 
-Installation
-------------
+Установка
+---------
 
 ``` bash
 $ bower install
@@ -15,3 +17,4 @@ $ php app/console doctrine:schema:update
 $ php app/console doctrine:fixtures:load
 $ php app/console assetic:dump
 ```
+
