@@ -1,0 +1,26 @@
+{
+    "name": "Attestation",
+    "version": "0.0.1",
+    "homepage": "https://github.com/KngGroup/Attestation",
+    "authors": [
+        "Dmitry Bykov <dmitry.bykov@sibers.com>"
+    ],
+    "description": "Simple sf2, angularjs project",
+    "keywords": [
+        "sf2",
+        "angularjs"
+    ],
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "jquery": "2.0.3",
+        "angular": "1.2.0-rc.2",
+        "angular-resource": "1.2.0-rc.2",
+        "angular-cookies": "1.2.0-rc.2",
+        "angular-sanitize": "1.2.0-rc.2",
+        "angular-ui-router": "0.2.0",
+        "angular-ui-select2": "0.0.2",
+        "angular-ui-tinymce": "0.0.4",
+        "angular-file-upload": "0.2.5"
+    }
+}
